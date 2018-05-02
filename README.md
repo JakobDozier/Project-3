@@ -8,7 +8,7 @@ For project 3 I plan to make an app using ARKit that allows the user to accurate
 
 
 #### Limitations
-Since ARKit was introduced in Septemeber of 2017 it is still new. 
+Since ARKit was introduced in Septemeber of 2017 it is still new. ARKit does not the ability to recognize real world object or track moving real world objects.
 
 #### Hardward target
 - iPhone SE

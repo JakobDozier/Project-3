@@ -8,7 +8,7 @@ I plan to make an app using ARKit that allows the user to accurately measure thi
 
 
 #### Limitations
-Since ARKit has
+Since ARKit was introduced in Septemeber of 2017 it is still new. 
 
 #### Hardward target
 - iPhone SE

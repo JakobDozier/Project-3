@@ -17,7 +17,7 @@ When the application first opens the user needs to slowly move the device around
 The yellow dots that will start to appear are called Feature Points they help the virtual objects that are placed stay were they are originally placed. They also show planes that the camera has detected. Once these yellow dots show up on the screen the user will be able to press the green start measuring button to start measuring.
 ![alt text](screenshots/pic2.png)
 
-Once the user presses the green start measuring button a red sphere will appear in the center of the screen on a detected plane. The green stop measuring button will disappear and a red stop measuring button takes its place.
+Once the user presses the green start measuring button a red sphere will appear in the center of the screen on a detected plane. The green stop measuring button will disappear and a red stop measuring button takes its place. When the user moves his phone a sphere will stay at the center of the screen with a line attached to it and the first sphere.
 ![alt text](screenshots/pic3.png)
 
 ![alt text](screenshots/pic4.png)

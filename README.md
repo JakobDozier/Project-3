@@ -32,6 +32,7 @@ Once the user reads the measurement they can again move their camera to where th
 Since ARKit was introduced in Septemeber of 2017 it is still new. ARKit does not the ability to recognize real world object or track moving real world objects.
 
 ### Hardward target
+In order to use augmented reality on iOS the devices must have an A9 processor or later as well as have iOS 11 or later installed the following list are devices that have the A9 processor
 - iPhone SE
 - iPhone 6S and iPhone 6S Plus
 - iPhone 7 and iPhone 7 Plus
@@ -39,13 +40,12 @@ Since ARKit was introduced in Septemeber of 2017 it is still new. ARKit does not
 - iPhone X
 - iPad (5th generation) and up
 - iPad Pro (all models)
-- iOS 11 or later
-- A9 processor or later
 
 ### Software used
 - Xcode 9
 - ARKit
 - Cocoa Pod
+  - LBTAComponents
 
 ### Language
 - Swift

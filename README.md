@@ -27,6 +27,10 @@ When the user reaches the end spot of their measurement with the center of the s
 Once the user reads the measurement they can again move their camera to where they want to start a measurement and press the green start measurement button to start a new measurment. 
 
 
+### Problems
+- I was originally planning on having cones at the ends of the line to make a two-way arrow but I could not find a way for them to stay in the correct direction, so I ended up using spheres. 
+- Getting the distance to display
+
 ### Limitations
 Since ARKit was introduced in Septemeber of 2017 it is still new. ARKit does not the ability to recognize real world objects or track moving real world objects. In the next update for ARKit they will have a new image detection feature but it will only find the image once so it could not be used to track a moving object. 
 

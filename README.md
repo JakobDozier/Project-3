@@ -61,7 +61,7 @@ In order to use augmented reality on iOS the devices must have an A9 processor o
 ### Team
 - Jakob Dozier
 
-I created the buttons and the center plus icon
+I created the buttons and the center plus icon (in the resources folder).
 
 App icon that I created
 ![alt text](screenshots/measureAppIcon.png)

@@ -28,7 +28,7 @@ Once the user reads the measurement they can again move their camera to where th
 
 ### Learned
 - The basics of swift
-- How to create an AR application in Xcode9
+- How to create an AR application in Xcode 9
 
 ### Problems
 - I was originally planning on having cones at the ends of the line to make a two-way arrow but I could not find a way for them to stay in the correct direction, so I ended up using spheres. 

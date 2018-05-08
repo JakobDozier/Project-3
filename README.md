@@ -43,7 +43,7 @@ In order to use augmented reality on iOS the devices must have an A9 processor o
 ### Software used
 - Xcode 9
 - ARKit
-- Cocoa Pod
+- CocoaPods
   - LBTAComponents
 
 ### Language

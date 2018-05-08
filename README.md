@@ -51,3 +51,7 @@ In order to use augmented reality on iOS the devices must have an A9 processor o
 
 ### Team
 - Jakob Dozier
+
+App icon that I created
+![alt text](screenshots/pic4.png)
+

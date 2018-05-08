@@ -26,6 +26,9 @@ When the user reaches the end spot of their measurement with the center of the s
 
 Once the user reads the measurement they can again move their camera to where they want to start a measurement and press the green start measurement button to start a new measurment. 
 
+### Learned
+- The basics of swift
+- How to create an AR application in Xcode9
 
 ### Problems
 - I was originally planning on having cones at the ends of the line to make a two-way arrow but I could not find a way for them to stay in the correct direction, so I ended up using spheres. 

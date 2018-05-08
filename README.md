@@ -45,12 +45,15 @@ In order to use augmented reality on iOS the devices must have an A9 processor o
 - ARKit
 - CocoaPods
   - LBTAComponents
+    - This gives me more options for placing my buttons by allowing to anchor it to specific sides of the screen as well as adjust the size of it. When using it it creates a new project file (filename).xcworkspace 
 
 ### Language
 - Swift
 
 ### Team
 - Jakob Dozier
+
+I created the buttons and the center plus icon
 
 App icon that I created
 ![alt text](screenshots/measureAppIcon.png)

@@ -7,7 +7,7 @@ https://youtu.be/I9lbqiZxZhE
 # ARruler
 
 ### Description
-For project 3 I plan to make an app using ARKit that allows the user to accurately measure real world objects using AR. When the user taps the screen an arrow will start at the center of the screen and when the user moves the phone the arrow will extend to where the center of the screen is now. Next to this arrow there will be two accurate measurements in inches and centimeters.
+For project 3 I plan to make an app using ARKit that allows the user to accurately measure real world objects using AR. When the user taps the screen a sphere will start at the center of the screen and when the user moves the phone the line will extend to where the center of the screen is currently, marked with a second sphere. At the top of the screen will be displayed the distance measured in inches, centimeters, and meters. 
 
 ### Walkthrough 
 
